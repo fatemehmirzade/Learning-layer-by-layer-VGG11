@@ -15,6 +15,7 @@ Hyperparameters used in the network:
 ![image](https://github.com/fmirzadeh99/Learning-layer-by-layer-VGG11/assets/169579231/69622bd1-6f81-4a71-b7dc-83232b611165)
 
 Results:
+
 ![image](https://github.com/fmirzadeh99/Learning-layer-by-layer-VGG11/assets/169579231/ad181e0f-ec51-4652-a725-ca344af1d9c2)
 
 
